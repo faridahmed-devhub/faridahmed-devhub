@@ -77,7 +77,7 @@ LLMs • Generative AI • Agentic AI • AI Automation
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faridahmed-devhub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faridahmed-devhub&show_icons=true&theme=radical" />
 </p>
 
 ---
