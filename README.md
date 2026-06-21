@@ -10,51 +10,38 @@
 
 ## 🧑‍💻 About Me
 
-I am a Senior Software Developer with more than 16 years of experience in designing, developing, and maintaining scalable web, mobile, and enterprise applications.
+Senior Software Developer with 16+ years of experience in designing, developing, and maintaining scalable web, mobile, and enterprise applications.
 
-I specialize in building secure, high-performance, and production-ready systems using modern backend technologies and clean architecture principles.
-
----
-
-## ⚙️ Core Expertise
-
-- Full Stack Web & Mobile Development  
-- Backend Architecture & System Design  
-- RESTful API Development & Microservices  
-- ERP & Enterprise Software Systems  
-- Database Design & Optimization  
-- Linux Server Administration & Deployment  
-- CI/CD & DevOps Practices  
-- AI & Automation (LLMs, Agentic AI)
+Specialized in backend systems, APIs, ERP solutions, database architecture, Linux server management, CI/CD pipelines, and modern AI-based automation systems.
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-### 💡 Programming Languages
-PHP • Python • Java • JavaScript • Kotlin
+**Languages:**  
+PHP • Python • Java • JavaScript • Kotlin  
 
-### 🧩 Frameworks
-Laravel • CodeIgniter • Django • FastAPI • Node.js • Flutter
+**Frameworks:**  
+Laravel • CodeIgniter • Django • FastAPI • Node.js • Flutter  
 
-### 🗄️ Databases
-MySQL • PostgreSQL • Oracle • SQL Server
+**Databases:**  
+MySQL • PostgreSQL • Oracle • SQL Server  
 
-### ⚙️ DevOps & Tools
-Linux • Git • CI/CD • Docker • Apache • Nginx
+**DevOps:**  
+Linux • Git • CI/CD • Docker • Apache • Nginx  
 
-### 🤖 AI & Modern Tech
-LLMs • Generative AI • Agentic AI • AI Automation
+**AI & Modern Tech:**  
+LLMs • Generative AI • Agentic AI • AI Automation  
 
 ---
 
 ## 📌 Featured Projects
 
 🚀 ERP Management System  
-🔌 REST API Backend Platform  
+🔌 REST API Backend System  
 📊 Attendance & HR System  
 🛒 E-commerce Platform  
-🤖 AI Automation / Workflow System  
+🤖 AI Automation System  
 
 ---
 
@@ -64,8 +51,28 @@ LLMs • Generative AI • Agentic AI • AI Automation
   <img src="https://github-readme-stats.vercel.app/api?username=faridahmed-devhub&show_icons=true&theme=radical" />
 </p>
 
+---
+
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridahmed-devhub&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faridahmed-devhub&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faridahmed-devhub&theme=react-dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faridahmed-devhub&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -73,8 +80,8 @@ LLMs • Generative AI • Agentic AI • AI Automation
 ## 🌍 Availability
 
 ✔ Open for Remote Jobs  
-✔ Available for Freelance / Contract / Full-time  
-✔ Europe | USA | Australia Friendly Time Zone  
+✔ Europe | USA | Australia Friendly  
+✔ Freelance / Contract / Full-time  
 
 ---
 
@@ -86,7 +93,7 @@ LLMs • Generative AI • Agentic AI • AI Automation
 
 ---
 
-## 🚀 Let's Build Something Amazing Together
+## 🚀 Let's Build Something Amazing
 
 <p align="center">
 💡 Clean Code • ⚡ Scalable Systems • 🤖 AI Powered Solutions
