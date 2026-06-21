@@ -1,73 +1,93 @@
-<h1 align="center">Hi 👋, I'm Farid Ahmed</h1>
-<h3 align="center">Senior Software Developer | Full Stack Engineer (16+ Years Experience)</h3>
+<h1 align="center">👋 Hi, I'm Farid Ahmed</h1>
+
+<h3 align="center">Senior Software Developer | Full Stack Engineer | ERP Systems | API Development | AI & Automation</h3>
+
+<p align="center">
+💻 16+ Years Experience • 🌍 Open for Remote Jobs • 🚀 Backend & AI Specialist
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Full Stack Web & Mobile Developer  
-- 🏢 ERP & Enterprise Systems Specialist  
-- 🔌 API & Backend Architecture Expert  
-- 🗄️ Database Design & Optimization  
-- 🐧 Linux Server & CI/CD Deployment  
-- 🤖 AI & Automation Enthusiast (LLMs, Agentic AI)
+I am a Senior Software Developer with more than 16 years of experience in designing, developing, and maintaining scalable web, mobile, and enterprise applications.
+
+I specialize in building secure, high-performance, and production-ready systems using modern backend technologies and clean architecture principles.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Core Expertise
 
-### 💡 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Full Stack Web & Mobile Development  
+- Backend Architecture & System Design  
+- RESTful API Development & Microservices  
+- ERP & Enterprise Software Systems  
+- Database Design & Optimization  
+- Linux Server Administration & Deployment  
+- CI/CD & DevOps Practices  
+- AI & Automation (LLMs, Agentic AI)
 
-### 🚀 Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+---
+
+## 🚀 Tech Stack
+
+### 💡 Programming Languages
+PHP • Python • Java • JavaScript • Kotlin
+
+### 🧩 Frameworks
+Laravel • CodeIgniter • Django • FastAPI • Node.js • Flutter
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+MySQL • PostgreSQL • Oracle • SQL Server
 
-### ⚙️ DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙️ DevOps & Tools
+Linux • Git • CI/CD • Docker • Apache • Nginx
 
 ### 🤖 AI & Modern Tech
-![AI](https://img.shields.io/badge/AI-AI%20Automation-blue?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Generative%20AI-purple?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Modern%20AI-orange?style=for-the-badge)
+LLMs • Generative AI • Agentic AI • AI Automation
 
 ---
 
 ## 📌 Featured Projects
 
-- 🏢 ERP Management System  
-- 🔌 REST API Backend System  
-- 📊 Attendance Management System  
-- 🛒 E-commerce Platform  
-- 🤖 AI Automation System  
+🚀 ERP Management System  
+🔌 REST API Backend Platform  
+📊 Attendance & HR System  
+🛒 E-commerce Platform  
+🤖 AI Automation / Workflow System  
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-- 📧 Email: **faridahmed.devhub@gmail.com**  
-- 🔗 LinkedIn: https://linkedin.com/in/faridahmed-devhub  
-- 💻 GitHub: https://github.com/faridahmed-devhub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faridahmed-devhub&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridahmed-devhub&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🌍 Availability
 
 ✔ Open for Remote Jobs  
-✔ Europe | USA | Australia  
+✔ Available for Freelance / Contract / Full-time  
+✔ Europe | USA | Australia Friendly Time Zone  
 
 ---
 
-<p align="center">🚀 Let's build something amazing together!</p>
+## 📫 Contact Me
+
+📧 Email: faridahmed.devhub@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/faridahmed-devhub  
+💻 GitHub: https://github.com/faridahmed-devhub  
+
+---
+
+## 🚀 Let's Build Something Amazing Together
+
+<p align="center">
+💡 Clean Code • ⚡ Scalable Systems • 🤖 AI Powered Solutions
+</p>
