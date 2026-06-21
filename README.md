@@ -1,37 +1,40 @@
 <h1 align="center">👋 Hi, I'm Farid Ahmed</h1>
 
-<h3 align="center">Senior Software Developer | Full Stack Engineer | ERP Systems | API Development | AI & Automation</h3>
+<h3 align="center">Senior Software Developer | Full Stack Engineer | Mobile App Developer | ERP Systems | API Development | AI & Automation</h3>
 
 <p align="center">
-💻 16+ Years Experience • 🌍 Open for Remote Jobs • 🚀 Backend & AI Specialist
+💻 16+ Years Experience • 🌍 Open for Remote Jobs • 🚀 Full Stack + Mobile + AI Specialist
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Senior Software Developer with 16+ years of experience in designing, developing, and maintaining scalable web, mobile, and enterprise applications.
+Senior Software Developer with 16+ years of experience in building scalable web, mobile, and enterprise applications.
 
-Specialized in backend systems, APIs, ERP solutions, database architecture, Linux server management, CI/CD pipelines, and modern AI-based automation systems.
+Expert in backend systems, APIs, ERP solutions, database architecture, Linux server management, CI/CD pipelines, and modern AI-based automation systems.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:**  
-PHP • Python • Java • JavaScript • Kotlin  
+### 💡 Frontend
+React.js • Next.js • JavaScript • HTML • CSS
 
-**Frameworks:**  
-Laravel • CodeIgniter • Django • FastAPI • Node.js • Flutter  
+### ⚙️ Backend
+PHP (Laravel, CodeIgniter) • Node.js • Express.js • Python (Django, FastAPI)
 
-**Databases:**  
-MySQL • PostgreSQL • Oracle • SQL Server  
+### 📱 Mobile Development
+Android (Java, Kotlin) • Flutter
 
-**DevOps:**  
-Linux • Git • CI/CD • Docker • Apache • Nginx  
+### 🗄️ Databases
+MySQL • PostgreSQL • MongoDB • Oracle • SQL Server
 
-**AI & Modern Tech:**  
-LLMs • Generative AI • Agentic AI • AI Automation  
+### ⚙️ DevOps
+Linux • Git • CI/CD • Docker • Apache • Nginx
+
+### 🤖 AI & Modern Tech
+LLMs • Generative AI • Agentic AI • AI Automation
 
 ---
 
@@ -41,6 +44,8 @@ LLMs • Generative AI • Agentic AI • AI Automation
 🔌 REST API Backend System  
 📊 Attendance & HR System  
 🛒 E-commerce Platform  
+📱 Android Mobile Applications  
+🌐 Full Stack Web Apps (React/Next.js + Node.js)  
 🤖 AI Automation System  
 
 ---
@@ -72,7 +77,7 @@ LLMs • Generative AI • Agentic AI • AI Automation
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faridahmed-devhub&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faridahmed-devhub" />
 </p>
 
 ---
@@ -80,8 +85,7 @@ LLMs • Generative AI • Agentic AI • AI Automation
 ## 🌍 Availability
 
 ✔ Open for Remote Jobs  
-✔ Europe | USA | Australia Friendly  
-✔ Freelance / Contract / Full-time  
+✔ Full Stack | Mobile | AI Projects  
 
 ---
 
@@ -96,5 +100,5 @@ LLMs • Generative AI • Agentic AI • AI Automation
 ## 🚀 Let's Build Something Amazing
 
 <p align="center">
-💡 Clean Code • ⚡ Scalable Systems • 🤖 AI Powered Solutions
+💡 Clean Code • ⚡ Scalable Systems • 📱 Mobile Apps • 🤖 AI Solutions
 </p>
