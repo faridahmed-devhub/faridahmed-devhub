@@ -1,42 +1,73 @@
-👋 Hi, I'm Farid Ahmed
-🚀 Senior Software Developer (16+ Years Experience)
+<h1 align="center">Hi 👋, I'm Farid Ahmed</h1>
+<h3 align="center">Senior Software Developer | Full Stack Engineer (16+ Years Experience)</h3>
 
-I am a passionate Software Developer specializing in building scalable web, mobile, and enterprise applications.
+---
 
-🧠 About Me
-Full Stack Developer (Web & Mobile)
-Backend Expert (PHP, Python, Node.js)
-ERP & Enterprise Systems Developer
-API & Microservices Architecture
-Database Specialist (MySQL, PostgreSQL, Oracle)
-Linux Server & CI/CD Deployment
-AI & Automation Enthusiast (LLMs, Agentic AI)
-⚙️ Tech Stack
+## 🧑‍💻 About Me
 
-Languages:
-PHP, Python, Java, Kotlin, JavaScript
+- 💻 Full Stack Web & Mobile Developer  
+- 🏢 ERP & Enterprise Systems Specialist  
+- 🔌 API & Backend Architecture Expert  
+- 🗄️ Database Design & Optimization  
+- 🐧 Linux Server & CI/CD Deployment  
+- 🤖 AI & Automation Enthusiast (LLMs, Agentic AI)
 
-Frameworks:
-Laravel, CodeIgniter, Django, FastAPI, Node.js, Flutter
+---
 
-Databases:
-MySQL, PostgreSQL, Oracle, SQL Server
+## ⚙️ Tech Stack
 
-DevOps:
-Linux, CI/CD, Docker
+### 💡 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-AI:
-LLMs, AI Automation, Agentic AI
+### 🚀 Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-📌 Featured Projects
-ERP Management System
-API Backend System
-Attendance System
-E-commerce Platform
-AI Automation Project
-📫 Contact
-📧 Email: faridahmed.devhub@gmail.com
-🔗 LinkedIn: linkedin.com/in/faridahmed-devhub
-🚀 Available for Remote Jobs
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-Europe | USA | Australia
+### ⚙️ DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤖 AI & Modern Tech
+![AI](https://img.shields.io/badge/AI-AI%20Automation-blue?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-purple?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Modern%20AI-orange?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+- 🏢 ERP Management System  
+- 🔌 REST API Backend System  
+- 📊 Attendance Management System  
+- 🛒 E-commerce Platform  
+- 🤖 AI Automation System  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **faridahmed.devhub@gmail.com**  
+- 🔗 LinkedIn: https://linkedin.com/in/faridahmed-devhub  
+- 💻 GitHub: https://github.com/faridahmed-devhub  
+
+---
+
+## 🌍 Availability
+
+✔ Open for Remote Jobs  
+✔ Europe | USA | Australia  
+
+---
+
+<p align="center">🚀 Let's build something amazing together!</p>
