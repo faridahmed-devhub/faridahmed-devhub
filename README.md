@@ -1,52 +1,69 @@
 <h1 align="center">👋 Hi, I'm Farid Ahmed</h1>
 
-<h3 align="center">Senior Software Developer | Full Stack Engineer | Mobile App Developer | ERP Systems | API Development | AI & Automation</h3>
+<h3 align="center">Software Engineer | Building Scalable Systems with AI, Backend & Full Stack Technologies</h3>
 
 <p align="center">
-💻 16+ Years Experience • 🌍 Open for Remote Jobs • 🚀 Full Stack + Mobile + AI Specialist
+⚙️ Backend + Full Stack Engineer • 🤖 AI & Agentic Systems Explorer
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Senior Software Developer with 16+ years of experience in building scalable web, mobile, and enterprise applications.
+I’m a Software Engineer focused on building scalable backend systems, full-stack applications, and AI-powered solutions.
 
-Expert in backend systems, APIs, ERP solutions, database architecture, Linux server management, CI/CD pipelines, and modern AI-based automation systems.
+I have experience working across web, mobile, and enterprise systems, and I enjoy designing clean architectures that solve real-world problems.
+
+Currently, I’m exploring **Agentic AI systems and multi-agent architectures** using modern backend technologies.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Core Expertise
 
-### 💡 Frontend
-React.js • Next.js • JavaScript • HTML • CSS
+### 🧠 Backend & System Design
+- FastAPI, Django, Laravel, CodeIgniter
+- REST API Development
+- System Architecture & Design
 
-### ⚙️ Backend
-PHP (Laravel, CodeIgniter) • Node.js • Express.js • Python (Django, FastAPI)
+### 🌐 Full Stack Development
+- React.js, Next.js
+- Node.js, Express.js
 
 ### 📱 Mobile Development
-Android (Java, Kotlin) • Flutter
+- Flutter
+- Android (Java/Kotlin)
 
 ### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • Oracle • SQL Server
+- MySQL • PostgreSQL • SQL Server • MongoDB
 
-### ⚙️ DevOps
-Linux • Git • CI/CD • Docker • Apache • Nginx
+### ⚙️ DevOps & Infrastructure
+- Linux Server Management
+- CI/CD Pipelines
+- Docker, Nginx, Apache
 
-### 🤖 AI & Modern Tech
-LLMs • Generative AI • Agentic AI • AI Automation
+### 🤖 AI & Emerging Tech
+- Agentic AI Systems
+- LLM Integration
+- AI Automation Workflows
+- Tool Calling & RAG (Exploring)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 What I’m Currently Building
 
-🚀 ERP Management System  
-🔌 REST API Backend System  
-📊 Attendance & HR System  
-🛒 E-commerce Platform  
-📱 Android Mobile Applications  
-🌐 Full Stack Web Apps (React/Next.js + Node.js)  
-🤖 AI Automation System  
+🧠 **Agentic AI Workflow System**
+- Multi-agent architecture using FastAPI
+- Task planning, reasoning, and tool execution
+- API-driven AI orchestration system
+
+---
+
+## 📌 Focus Areas
+
+- Scalable Backend Systems
+- API Architecture & Performance
+- AI-driven Applications
+- System Design & Engineering
 
 ---
 
@@ -72,17 +89,17 @@ LLMs • Generative AI • Agentic AI • AI Automation
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faridahmed-devhub&theme=react-dark" />
 </p>
 
-
 ---
 
 ## 🌍 Availability
 
-✔ Open for Remote Jobs  
-✔ Full Stack | Mobile | AI Projects  
+✔ Open for Remote Roles (Backend / Full Stack / AI Engineering)  
+✔ Interested in AI-driven Product Engineering  
+✔ Available for Freelance & Contract Work  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 Email: faridahmed.devhub@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/faridahmed-devhub  
@@ -90,8 +107,6 @@ LLMs • Generative AI • Agentic AI • AI Automation
 
 ---
 
-## 🚀 Let's Build Something Amazing
+## 🚀 Philosophy
 
-<p align="center">
-💡 Clean Code • ⚡ Scalable Systems • 📱 Mobile Apps • 🤖 AI Solutions
-</p>
+> I don’t just build applications — I design systems that scale.
