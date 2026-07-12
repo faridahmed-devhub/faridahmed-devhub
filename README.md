@@ -588,39 +588,15 @@ Research collaboration opportunities are always welcome.
 
 ---
 
-# 🌍 Open To Opportunities
+# 🌍 Open to Opportunities
 
-## 💼 Professional Opportunities
+I am currently open to:
 
-✔ Senior Software Engineer
+- 🎓 Fully Funded PhD positions in Software Engineering (AI for Software Engineering, Software Quality, Software Security, and Machine Learning)
+- 💼 Senior Backend, Full Stack, Software Architect, or AI Software Engineering roles
+- 🤝 Research collaborations in AI for Software Engineering (AI4SE)
 
-✔ Backend Engineer
-
-✔ Full Stack Engineer
-
-✔ Software Architect
-
-✔ AI Software Engineer
-
-✔ Technical Lead
-
-✔ Remote Engineering Roles
-
----
-
-## 🎓 Academic Opportunities
-
-✔ Fully Funded PhD Positions
-
-✔ Research Assistantships (RA)
-
-✔ Graduate Research Opportunities
-
-✔ International Research Collaboration
-
-✔ AI for Software Engineering Research Groups
-
-✔ Software Engineering Research Labs
+Feel free to connect if my background aligns with your research group or engineering team.
 
 ---
 
