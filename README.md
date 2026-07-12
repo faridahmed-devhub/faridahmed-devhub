@@ -376,15 +376,6 @@ I aim to contribute practical research that benefits both the software engineeri
 <!--         GITHUB STATS • ACHIEVEMENTS • BADGES          -->
 <!-- ===================================================== -->
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faridahmed-devhub&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridahmed-devhub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -406,15 +397,6 @@ I aim to contribute practical research that benefits both the software engineeri
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faridahmed-devhub&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
 
 ---
 
