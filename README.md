@@ -624,34 +624,6 @@ Research collaboration opportunities are always welcome.
 
 ---
 
-# 🌎 Preferred Study & Work Destinations
-
-🇨🇦 Canada
-
-🇦🇺 Australia
-
-🇺🇸 United States
-
-🇩🇪 Germany
-
-🇳🇱 Netherlands
-
-🇸🇪 Sweden
-
-🇫🇮 Finland
-
-🇩🇰 Denmark
-
-🇳🇴 Norway
-
-🇨🇭 Switzerland
-
-🇮🇪 Ireland
-
-🇬🇧 United Kingdom
-
----
-
 # 💬 Let's Connect
 
 If you are:
