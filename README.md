@@ -7,12 +7,22 @@ Hi 👋 I'm Farid Ahmed
 </h1>
 
 <h3 align="center">
-Senior Software Engineer with 15+ years of industrial experience, transitioning toward research in Trustworthy AI for Software Engineering, focusing on LLM-based software assistants, software quality, security, and intelligent developer tools.
+Senior Software Engineer • AI for Software Engineering • Backend Architecture • System Design
 </h3>
 
 <p align="center">
+<b>15+ Years of Professional Experience</b><br>
 Building Enterprise Software • Scalable Backend Systems • AI-Driven Applications
 </p>
+
+<p align="center">
+Senior Software Engineer with 15+ years of industrial experience,
+transitioning toward research in <b>Trustworthy AI for Software Engineering</b>,
+focusing on LLM-based software assistants, software quality,
+security, and intelligent developer tools.
+</p>
+
+
 
 <p align="center">
 
