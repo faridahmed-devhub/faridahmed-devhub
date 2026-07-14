@@ -7,7 +7,7 @@ Hi 👋 I'm Farid Ahmed
 </h1>
 
 <h3 align="center">
-Senior Software Engineer • AI for Software Engineering • Backend Architecture • System Design
+Senior Software Engineer | AI for Software Engineering Research | Backend Architecture | System Design
 </h3>
 
 <p align="center">
@@ -26,9 +26,9 @@ security, and intelligent developer tools.
 
 <p align="center">
 
-🌍 Open to Remote Software Engineering Opportunities
+🌍 Open to Senior Backend / AI Software Engineering Opportunities
 
-🎓 Seeking Fully Funded PhD Opportunities in Software Engineering (AI for Software Engineering)
+🎓 Seeking Fully Funded PhD Positions in Software Engineering (AI4SE)
 
 </p>
 
