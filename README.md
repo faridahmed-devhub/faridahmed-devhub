@@ -7,11 +7,10 @@ Hi 👋 I'm Farid Ahmed
 </h1>
 
 <h3 align="center">
-Senior Software Engineer • AI for Software Engineering • Backend Architecture • System Design
+Senior Software Engineer with 15+ years of industrial experience, transitioning toward research in Trustworthy AI for Software Engineering, focusing on LLM-based software assistants, software quality, security, and intelligent developer tools.
 </h3>
 
 <p align="center">
-<b>15+ Years of Professional Experience</b><br>
 Building Enterprise Software • Scalable Backend Systems • AI-Driven Applications
 </p>
 
@@ -33,7 +32,7 @@ Throughout my career, I have worked on **ERP systems, backend platforms, REST AP
 
 My primary expertise includes **Python, FastAPI, Django, Laravel, PHP, Java, PostgreSQL, MySQL, and scalable backend architecture**. I enjoy solving complex engineering problems by designing reliable, maintainable, and high-performance software systems.
 
-In recent years, my interests have expanded toward **Artificial Intelligence for Software Engineering (AI4SE)**, where I explore how **Machine Learning, Large Language Models (LLMs), and intelligent software engineering techniques** can improve software quality, software testing, software security, software maintenance, and developer productivity.
+In recent years, my interests have expanded toward **Artificial Intelligence for Software Engineering (AI4SE)**, where I investigate how Machine Learning, Large Language Models (LLMs), and intelligent software engineering techniques can improve software quality, reliability, security, and developer productivity.
 
 Alongside my professional career, I am preparing for a **fully funded PhD** to conduct research that bridges **industrial software engineering practice** with **AI-driven software engineering research**.
 
@@ -45,22 +44,26 @@ Alongside my professional career, I am preparing for a **fully funded PhD** to c
 - Developing enterprise-grade REST APIs and distributed applications
 - Exploring **AI for Software Engineering (AI4SE)**
 - Building intelligent developer tools using **LLMs**
-- Designing production-ready software architectures
+- Developing research-oriented AI tools for software engineering
 - Contributing to open-source and research-oriented software projects
 
 ---
 
 ## 🎓 Research Interests
 
-- Artificial Intelligence for Software Engineering (AI4SE)
-- Machine Learning for Software Quality Improvement
-- Automated Software Testing and Bug Prediction
+My primary research interest is:
+
+**Trustworthy Artificial Intelligence for Software Engineering**
+
+Specifically:
+
+- LLM-based Software Engineering Assistants
+- AI-assisted Code Review and Software Quality Analysis
+- Software Defect Prediction
+- AI-driven Software Testing
 - Software Security and Vulnerability Detection
 - Software Maintenance and Evolution
 - Mining Software Repositories
-- AI-Assisted Software Development
-- Scalable Software Architecture
-- Enterprise Software Engineering
 
 ---
 
