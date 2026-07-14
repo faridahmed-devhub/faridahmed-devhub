@@ -134,6 +134,26 @@ My long-term research goal is to bridge **industrial software engineering** with
 
 ---
 
+## 🔬 Research Roadmap
+
+The following topics represent my current and planned research directions in Trustworthy AI for Software Engineering.
+
+
+Trustworthy AI for Software Engineering
+│
+├── LLM-based Software Engineering
+├── AI-assisted Code Review
+├── Software Defect Prediction
+├── Intelligent Bug Detection & Management
+├── Software Security & Vulnerability Detection
+├── Hallucination Detection in Code Generation
+├── Reliability & Robustness of AI-assisted Development
+├── Confidence Estimation for LLM-based Developer Tools
+├── Automated Software Testing
+├── Mining Software Repositories
+├── Software Quality Analytics
+└── AI-assisted Software Maintenance
+
 # 🛠 Technical Expertise
 
 ## Programming Languages
